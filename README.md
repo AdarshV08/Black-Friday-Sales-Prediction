@@ -26,6 +26,12 @@ The dataset comprises ~550,000 observations with features including:
 * City Category & Stay Duration
 * Product Categories (Masked Category 1, 2, 3)
 
+### 📊 Visual Insights
+Here is the distribution of purchase amounts of different product categories across the dataset:
+
+![Purchase Distribution](purchase_distribution.png)
+
+
 ## 📊 Results
 * **Model Used:** Linear Regression
 * **Metric:** R2 Score (Coefficient of Determination)
